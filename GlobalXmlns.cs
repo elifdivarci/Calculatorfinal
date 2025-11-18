@@ -1,0 +1,2 @@
+[assembly: XmlnsDefinition("http://schemas.microsoft.com/dotnet/maui/global", "Calculator__ders")]
+[assembly: XmlnsDefinition("http://schemas.microsoft.com/dotnet/maui/global", "Calculator__ders.Pages")]
